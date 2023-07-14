@@ -65,6 +65,4 @@ public class DivisorFinder : MonoBehaviour
         }
         print(outputFive);
     }
-
-    
 }
